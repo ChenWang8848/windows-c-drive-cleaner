@@ -1,0 +1,9 @@
+# Ignore downloaded Czkawka binaries and scan output logs
+Czkawka_GUI/
+*.zip
+*.exe
+dup_*.json
+dup_*.txt
+big_files.txt
+.DS_Store
+Thumbs.db
